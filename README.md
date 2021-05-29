@@ -6,4 +6,4 @@ This is a calculator for the absolute and relative eGFR (estimated Globular Filt
 Absolute eGFR is for determining the kidney function in patients before administering medicines,
 in particular iodine and gadolinium based contrast mediums.
 
-This project finished in this form and are here for archiving purposes only.
+This project is finished in this form and are here for archiving purposes only.
