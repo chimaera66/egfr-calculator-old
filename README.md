@@ -15,4 +15,4 @@ The project was made and compiled in Visual Studio 2013
 
 # Science behind the math
 A science document can be found here:
- * `.\release\egfr-calculator-science-121122-v01.docx`
+ * `.\releases\egfr-calculator-science-121122-v01.docx`
